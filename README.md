@@ -1,7 +1,7 @@
 # github-practice-ca09
-Portfolio Website Assignment
+Learning to use Github for your Portfolio Website Assignment
 
-# GitHub Personal Portfolio Assignment
+# Personal Portfolio Assignment
 
 **Assignment Instructions**
 

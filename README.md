@@ -22,7 +22,7 @@ Learning to use Github for your Portfolio Website Assignment
     - **Important**: Your entry will NOT appear on the class table right away.  Once you submit the "pull request" the owner of the repo (me) needs to approve and merge it into the "master" before your entry will appear in the class table on the website. 
 
 # You may find <http://happygitwithr.com/index.html> useful
-
+k
 <br>
 
 # Class GitHub Table with all portfolio websites 

@@ -25,7 +25,7 @@ Learning to use Github for your Portfolio Website Assignment
 
 <br>
 
-# Class GitHub Table with all portfolio websites
+# Class GitHub Table with all portfolio websites 
 
 
 |No | Name                  | Study Group   | GitHub ID            |Github Repo for portfolio website                      |Netlify website address              |Date Added     |  

@@ -37,3 +37,4 @@ Learning to use Github for your Portfolio Website Assignment
 |04|Auguste Honore |  5  | auguste-honore |<https://github.com/auguste-honore/my_website>   |<https://augustehonoreportfolio.netlify.app/> 
 |05|Danya Liu   | 11     | DanyaLiu |<https://github.com/DanyaLiu/my_website>   |<https://danyaliu.netlify.app/>        |2020-09-23
 |06|Shiyu Tao   | 15     | anna-shiyu-tao |<https://github.com/anna-shiyu-tao/my_website99>   |<https://anna-tao-portfolio.netlify.app/>        |2020-09-24
+|07|Chushi Guo   | 12     | Chushi-G |<https://github.com/Chushi-G/my_website>   |<https://chushimywebsite.netlify.app>        |2020-09-25

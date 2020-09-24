@@ -39,3 +39,5 @@ Learning to use Github for your Portfolio Website Assignment
 |06|Kisen Wang  | 2      | hiKISEN |<https://github.com/hiKISEN/My-Website>   |<https://kisenwang.netlify.app/>        |2020-09-24
 |07|Shiyu Tao   | 15     | anna-shiyu-tao |<https://github.com/anna-shiyu-tao/my_website99>   |<https://anna-tao-portfolio.netlify.app/>        |2020-09-24
 |08|Chushi Guo   | 12     | Chushi-G |<https://github.com/Chushi-G/my_website>   |<https://chushimywebsite.netlify.app>        |2020-09-25
+|09|Xuan Kieu Dung Tran   | 23     | XuanKieuDungTran |<https://github.com/XuanKieuDungTran/my_website/>   |<https://xuan-kieu-dung-tran-portfolio.netlify.app/>        |2020-09-24
+

@@ -36,3 +36,4 @@ Learning to use Github for your Portfolio Website Assignment
 |03|Lasse Munk  | 7     | thirsmunk |<https://github.com/thirsmunk/MFA_my_website>   |<https://lassemunk.netlify.app/>        |2020-09-23 
 |04|Auguste Honore |  5  | auguste-honore |<https://github.com/auguste-honore/my_website>   |<https://augustehonoreportfolio.netlify.app/> 
 |05|Danya Liu   | 11     | DanyaLiu |<https://github.com/DanyaLiu/my_website>   |<https://danyaliu.netlify.app/>        |2020-09-23
+|06|Kisen Wang  | 2      | hiKISEN |<https://github.com/hiKISEN/My-Website>   |<https://kisenwang.netlify.app/>        |2020-09-24

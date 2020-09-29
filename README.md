@@ -42,3 +42,4 @@ Learning to use Github for your Portfolio Website Assignment
 |09|Xuan Kieu Dung Tran   | 23     | XuanKieuDungTran |<https://github.com/XuanKieuDungTran/my_website/>   |<https://xuan-kieu-dung-tran-portfolio.netlify.app/>        |2020-09-24
 |10|Riccardo Luca Broggi   | 25     | Ricky3997 |<https://github.com/Ricky3997/MFA21-DAFF/>   |<https://rlb-mfa21-daff.netlify.app/>        |2020-09-29
 |11|Stanislav Makarov   | 8     | s-makarov |<https://github.com/s-makarov/my_website>   |<https://stanislav-portfolio.netlify.app/>        |2020-09-29
+|12|Roman Rothenberg   | 1     | RomanRothenberg |<https://github.com/RomanRothenberg/my_website2>  |<https://romanrothenberg-portfolio.netlify.app/>  |2020-09-29

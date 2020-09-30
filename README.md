@@ -1,5 +1,4 @@
 # github-practice-ca09
-lamo me nub
 
 # Personal Portfolio Assignment
 

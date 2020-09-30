@@ -45,7 +45,7 @@ Learning to use Github for your Portfolio Website Assignment
 |12|Roman Rothenberg   | 1     | RomanRothenberg |<https://github.com/RomanRothenberg/my_website2>  |<https://romanrothenberg-portfolio.netlify.app/>  |2020-09-29
 |13|Christoph Sieker   | 37     | ChristophSieker |<https://github.com/ChristophSieker/website77>   |<https://sieker77.netlify.app/>        |2020-09-29
 |14| Disha Sethi      | 11   | sethidisha18            | <https://github.com/sethidisha18/my_website>        | <https://dishasethi.netlify.app/>      |2020-09-29   
-|15|Marta Maccagno   | 12     | martamaccagno |https://github.com/martamaccagno>   |https://martamaccagno.netlify.app/>    |2020-09-29
+|15|Marta Maccagno   | 12     | martamaccagno |https://github.com/martamaccagno/my_website>   | https://martamaccagno.netlify.app/>  |2020-09-29
 |16 |Nguissaly Gueye   | 3   | NguissalyG |<https://github.com/NguissalyG/Website_project>  |<https://portfolio-nguissaly.netlify.app/>  |2020-09-30
 |17|Benedikt Jaletzke | 8 | bjaletzke | <https://github.com/bjaletzke/portfolio_site> | <https://bjaletzke.netlify.app/> |2020-09-30 |
 

@@ -49,3 +49,4 @@
 |17|Benedikt Jaletzke | 8 | bjaletzke | <https://github.com/bjaletzke/portfolio_site> | <https://bjaletzke.netlify.app/> |2020-09-30 |
 |18|David Teboul | 20 | David-Teboul | <https://github.com/David-Teboul/my_website_new> | <https://davidteboul.netlify.app/> |2020-09-30 |
 |19|Manu Vanderveeren | 25 | ManuVdv | <https://github.com/ManuVdv/Website> | <https://manuvanderveeren.netlify.app> |2020-09-30 |
+|20|Luca Schiek | 13 | lschiek | <https://github.com/lschiek/my_website> | <https://schiekluca-portfolio.netlify.app> |2020-10-02 |

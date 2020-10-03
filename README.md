@@ -54,3 +54,4 @@
 |22|Napat Matchaseth | 18 | N-Matchaseth | <https://github.com/N-Matchaseth/my_website> | <https://napatmat.netlify.app/> |2020-10-02 |
 |23|Tarek Auf | 28 | tarek-auf | <https://github.com/tarek-auf/test> | <https://tarek-auf.netlify.app/> |2020-10-02 |
 |24|Hugo Huere Alvarado | 33 | Hugo-Huere-Alvarado | <https://github.com/Hugo-Huere-Alvarado/my_website> | <https://hugo-huere-alvarado-portfolio.netlify.app> |2020-10-03 |
+|25|Mark Negodyuk   | 8   | MNegodyuk |<https://github.com/MNegodyuk/my_website>   |<https://mnegodyuk.netlify.app/>        |2020-10-03 
